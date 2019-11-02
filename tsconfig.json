@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "jsx": "react",
+    "noStrictGenericChecks": true,
+    "strictFunctionTypes": true,
+    "baseUrl": "./src",
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
